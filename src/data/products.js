@@ -4,7 +4,7 @@ export const products = [
     name: "Snake Plant",
     price: 25.99,
     category: "Low Light",
-    image: "https://images.unsplash.com/photo-1593482892290-9d013c0c5aab?w=400",
+    image: "https://images.unsplash.com/photo-1593482892290-9d013c0c5aab?ixlib=rb-4.0.3&w=400",
     description: "Hardy plant that thrives in low light conditions"
   },
   {
@@ -12,7 +12,7 @@ export const products = [
     name: "Monstera Deliciosa",
     price: 35.99,
     category: "Medium Light",
-    image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=400",
+    image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixlib=rb-4.0.3&w=400",
     description: "Tropical plant with unique split leaves"
   },
   {
@@ -20,7 +20,7 @@ export const products = [
     name: "Fiddle Leaf Fig",
     price: 45.99,
     category: "Bright Light",
-    image: "https://images.unsplash.com/photo-1598880940083-2befce698d7c?w=400",
+    image: "https://images.unsplash.com/photo-1598880940083-2befce698d7c?ixlib=rb-4.0.3&w=400",
     description: "Popular tree with large, violin-shaped leaves"
   },
   {
@@ -28,7 +28,7 @@ export const products = [
     name: "Peace Lily",
     price: 22.99,
     category: "Low Light",
-    image: "https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=400",
+    image: "https://images.unsplash.com/photo-1596464716127-f2a82984de30?ixlib=rb-4.0.3&w=400",
     description: "Beautiful flowering plant that purifies air"
   },
   {
@@ -36,7 +36,7 @@ export const products = [
     name: "Spider Plant",
     price: 18.99,
     category: "Medium Light",
-    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400",
+    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&w=400",
     description: "Easy to grow with arching leaves and baby plantlets"
   },
   {
@@ -44,7 +44,7 @@ export const products = [
     name: "Golden Pothos",
     price: 15.99,
     category: "Low Light",
-    image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400",
+    image: "https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-4.0.3&w=400",
     description: "Trailing vine plant that's very easy to care for"
   }
 ];
