@@ -60,7 +60,7 @@ body {
 .landing-page {
   min-height: 100vh;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
-              url('https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200') center/cover;
+              url('https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&w=1200') center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
